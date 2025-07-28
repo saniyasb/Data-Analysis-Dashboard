@@ -1,1 +1,1 @@
-#📊 Regional Sales Performance Dashboard (Excel + VBA)
+# Regional Sales Performance Dashboard (Excel + VBA)
