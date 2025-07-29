@@ -4,17 +4,23 @@
 ## Dataset Used
 <a href ="https://github.com/saniyasb/Data-Analysis-Dashboard/blob/main/final%20excel%20project%201%20(1).xlsx">Dataset</a>
 ## Questions (KPIs)
--Which city recorded the highest total sales?
--Who are the top 5 performing sales executives?
--What is the Target Hit % by each region?
--Which sales executives are farthest from reaching their targets?
--What is the average sales made per day per region?
--How does each region compare using bar, pie, and line charts?
--What is the total sales achieved versus the overall target?
--Which city has the most consistent daily sales performance?
--What’s the overall percentage of target achieved across all cities?
--How effectively are slicers and dashboards reflecting regional data?
+- Which city recorded the highest total sales?
+- Who are the top 5 performing sales executives?
+- What is the Target Hit % by each region?
+- Which sales executives are farthest from reaching their targets?
+- What is the average sales made per day per region?
+- How does each region compare using bar, pie, and line charts?
+- What is the total sales achieved versus the overall target?
+- Which city has the most consistent daily sales performance?
+- What’s the overall percentage of target achieved across all cities?
+- How effectively are slicers and dashboards reflecting regional data?
 
 -Dashboard interaction <a href="https://github.com/saniyasb/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-29%20002946.png">View Dashboard</a>
-
+## Process
+- Gathered and arranged daily sales information by executive and region.
+- Target Hit percentage, Deviation, and Total Sales were calculated KPIs.
+- For insights, I made pivot tables and bar, pie, and line charts.
+- Slicers were used for dynamic views and region-wise filtering.
+- Slicer-pivot connections were automated with VBA macros.
+- 
   
