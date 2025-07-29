@@ -23,5 +23,13 @@
 - Slicers were used for dynamic views and region-wise filtering.
 - Slicer-pivot connections were automated with VBA macros.
 - <img width="981" height="467" alt="Screenshot 2025-07-29 002946" src="https://github.com/user-attachments/assets/c365178e-32ae-4566-9c00-d9f8523d812c" />
+## Project Insights
+- By connecting slicers to pivot tables according to cell values, VBA macros allow for dynamic interactivity.
+- Team performance across several cities can be quickly compared thanks to region-wise analysis.
+- Top and underperforming executives can be identified with the use of KPI visuals such as Target Hit % and Deviation.
+- Decision-makers can quickly and easily gain insights from charts (bar, pie, and line).
+- The dashboard increases sales tracking efficiency and decreases manual labor.
 
+## Conclusion
+This sales dashboard, which is based on Excel, offers an automated and interactive way to monitor regional performance. It makes decision-making easier for teams and managers by integrating VBA macros, slicers, KPI metrics, and pivot tables. The project is a useful tool for any sales-driven organization since it improves data visibility, minimizes manual labor, and offers distinct insights into sales trends and targets.
   
