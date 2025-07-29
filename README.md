@@ -15,12 +15,13 @@
 - What’s the overall percentage of target achieved across all cities?
 - How effectively are slicers and dashboards reflecting regional data?
 
--Dashboard interaction <a href="https://github.com/saniyasb/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-29%20002946.png">View Dashboard</a>
+- Dashboard interaction <a href="https://github.com/saniyasb/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-29%20002946.png">View Dashboard</a>
 ## Process
 - Gathered and arranged daily sales information by executive and region.
 - Target Hit percentage, Deviation, and Total Sales were calculated KPIs.
 - For insights, I made pivot tables and bar, pie, and line charts.
 - Slicers were used for dynamic views and region-wise filtering.
 - Slicer-pivot connections were automated with VBA macros.
-- 
+- <img width="981" height="467" alt="Screenshot 2025-07-29 002946" src="https://github.com/user-attachments/assets/c365178e-32ae-4566-9c00-d9f8523d812c" />
+
   
