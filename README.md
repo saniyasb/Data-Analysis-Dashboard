@@ -15,5 +15,6 @@
 -What’s the overall percentage of target achieved across all cities?
 -How effectively are slicers and dashboards reflecting regional data?
 
--Dashboard interaction <a href="
+-Dashboard interaction <a href="https://github.com/saniyasb/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-29%20002946.png">View Dashboard</a>
+
   
